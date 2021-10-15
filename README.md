@@ -2,6 +2,11 @@
 
 This is a script to process the [ICD9 to SNOMEDCT mapping files](https://www.nlm.nih.gov/research/umls/mapping_projects/icd9cm_to_snomedct.html) into an RDF/TURTLE document for import into a triple store.  
 
+# Requirements
+
+* Bash
+* Awk
+
 # Usage
 
 To use it, run the script in a bash-compatible shell.  
